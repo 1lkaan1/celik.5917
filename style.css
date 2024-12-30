@@ -152,6 +152,7 @@ img{
     height: 500px;
     float: inline-end;
     margin-top: 30px;
+    position: fixed;
 }
 
 @media(max-width:576px) {
