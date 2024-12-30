@@ -159,6 +159,7 @@ img{
         width: 100%;
         padding-left: 12px;
         padding-right: 12px;
+        position: fixed;
     }
 
     .menu ul {
